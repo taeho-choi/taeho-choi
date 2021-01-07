@@ -9,4 +9,4 @@
   </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Now%20Use%20me!&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=9b9b9b&height=200&section=footer&text=&fontSize=90)
