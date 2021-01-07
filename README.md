@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![Untitled-1](https://user-images.githubusercontent.com/60216512/103893021-e4456d00-512f-11eb-8c08-2793d084acc6.png)
+
 
 <!--
 **taeho-choi/taeho-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
