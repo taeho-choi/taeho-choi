@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Taeho-choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FrontEnd%20Developer&descAlignY=55&descAlign=66)
-
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Taeho-choi&fontSize=70&animation=fadeIn&fontAlignY=34&desc=FrontEnd%20Developer&descAlignY=51&descAlign=50)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
